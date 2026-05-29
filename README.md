@@ -4,7 +4,7 @@ A visually appealing Spotify Clone built using HTML and CSS.
 This project replicates the modern Spotify web interface with a responsive layout, stylish design, and music player inspired UI.
 
 # Features
-Modern Spotify-inspired user interface/n
+Modern Spotify-inspired user interface
 Responsive sidebar and navigation menu
 Music playlist and album sections
 Stylish music player layout
